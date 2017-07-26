@@ -103,6 +103,10 @@
         }
 ```  
 
+------ 以上为mescroll最基本的用法,强烈建议您下载并查看 <a href="http://www.mescroll.com/demo.html">mescroll基础案例</a> , 发现mescroll更强大的功能 ~  
+------ 基础案例一共5个, 每个案例3分钟, 一共花您15分钟; 这15分钟您将了解mescroll在不同情况下应如何快速配置 ~  
+------ 磨刀不误砍柴工,心急吃不了热豆腐. 请静下心来体验与理解mescroll, 一定会让您事半功倍 ~  
+
 ## API文档 :   
 #### <a href="http://www.mescroll.com/api.html#options" target="_blank">前往官网查看 >> </a>
 
@@ -112,7 +116,7 @@ var mescroll = new MeScroll("mescroll", { down: {下拉刷新的配置参数}, u
 ```  
 
 <table border="1" cellspacing="0">
-	<tr align="center"><td colspan="3"><b>down 下拉刷新的配置参数</b> 可参考案例mescroll-options.html</td></tr>
+	<tr align="center"><td colspan="3"><b>down 下拉刷新的配置参数</b></td></tr>
 	<tr align="center">
 		<td>参数名</td>
 		<td>默认值</td>
@@ -218,7 +222,7 @@ var mescroll = new MeScroll("mescroll", { down: {下拉刷新的配置参数}, u
 <br/>
 
 <table border="1" cellspacing="0">
-	<tr align="center"><td colspan="3"><b>up 上拉加载的配置参数</b> 可参考案例mescroll-options.html</td></tr>
+	<tr align="center"><td colspan="3"><b>up 上拉加载的配置参数</b></td></tr>
 	<tr align="center">
 		<td>参数名</td>
 		<td>默认值</td>
